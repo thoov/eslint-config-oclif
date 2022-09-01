@@ -1,5 +1,5 @@
 {
-  "name": "@thoov/eslint-config-oclif",
+  "name": "eslint-config-oclif-ramda-fix",
   "description": "eslint config for oclif",
   "version": "4.0.0",
   "author": "Jeff Dickey @jdxcode",
