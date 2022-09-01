@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-oclif",
+  "name": "@thoov/eslint-config-oclif",
   "description": "eslint config for oclif",
   "version": "4.0.0",
   "author": "Jeff Dickey @jdxcode",
